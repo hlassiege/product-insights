@@ -18,5 +18,5 @@ If every you want to ask something to the community, send me an email to hlassie
 
 * [What's the size of your IT support team?](https://docs.google.com/forms/d/e/1FAIpQLSe8b6zZCD-OU7N08OJBVRvdk2CV20fGdUCRXeyvpAbS2lDqaA/viewform) | [Answers](https://docs.google.com/spreadsheets/d/1_72XOK_fagiOJkgBJLIcZPpko_xM0pLOsaBxrR3ErKQ/edit?resourcekey#gid=1552252393) 
 
-* [Benchmark on security teams](https://docs.google.com/forms/d/e/1FAIpQLSe9vZVCrIjwJLgzbV1um9oIrCorEyN1E9eaY-tMhJV6q_9t5w/viewform) [Answers](https://docs.google.com/spreadsheets/d/14ozfwiw2Nr0LFpWBLvfdcmG6q93inpm76_NjSWWJmRw/edit?usp=sharing) 
+* [Benchmark on security teams](https://docs.google.com/forms/d/e/1FAIpQLSe9vZVCrIjwJLgzbV1um9oIrCorEyN1E9eaY-tMhJV6q_9t5w/viewform) | [Answers](https://docs.google.com/spreadsheets/d/14ozfwiw2Nr0LFpWBLvfdcmG6q93inpm76_NjSWWJmRw/edit?usp=sharing) 
 
